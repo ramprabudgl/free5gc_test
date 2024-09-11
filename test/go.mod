@@ -13,9 +13,12 @@ require (
 	github.com/free5gc/n3iwf v0.0.0
 	github.com/free5gc/nas v1.1.4-0.20240807053650-6775d72a73b6
 	github.com/free5gc/ngap v1.0.9-0.20240708062829-734d184eed74
+        github.com/ramprabudgl/nas v1.0.10
+	github.com/ramprabudgl/ngap v0.0.3
 	github.com/free5gc/nrf v0.0.0
 	github.com/free5gc/nssf v0.0.0
 	github.com/free5gc/openapi v1.0.9-0.20240730084323-449098e08462
+        github.com/ramprabudgl/openapi v1.1.5
 	github.com/free5gc/pcf v0.0.0
 	github.com/free5gc/sctp v1.0.1
 	github.com/free5gc/smf v1.2.4
